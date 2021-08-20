@@ -1,4 +1,4 @@
-# KataGo
+# KataGo 
 
 * [Overview](#overview)
 * [Training History and Research](#training-history-and-research)
@@ -23,7 +23,8 @@
 * [Contributors](#contributors)
 * [License](#license)
 
-## Overview
+## Overview / 摘要
+
 
 KataGo has begun its first public distributed training run! See https://katagotraining.org/ for more details, to download the latest and strongest neural nets, or to learn how to contribute if you want to help KataGo improve further!
 
@@ -141,7 +142,7 @@ Print version:
    * `./katago version`
 
 
-### Tuning for Performance
+### Tuning for Performance / 效能調校
 
 The most important parameter to optimize for KataGo's performance is the number of threads to use - this can easily make a factor of 2 or 3 difference.
 
